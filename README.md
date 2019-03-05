@@ -1,2 +1,2 @@
 # mucson.github.io
-My first hosting
+Vladimir Zhukov | Gomel, Belarus | Looking for Junior QA Engeneer position | personal page
