@@ -1,7 +1,7 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #3333;
+    	background: #f0f0f0;
 }
 
 span{
@@ -19,6 +19,7 @@ img{
 table {
 	margin: 0;
 	float: right;
+    	padding-right: 60px;
 }
 
 table tr td:first-child {
@@ -29,12 +30,12 @@ a {
 	text-decoration: none;
 	color: #000000;
 	font-weight: bold;
-	transition: 0.3s;
+	transition: color 0.3s ease-in-out;
 }
 
 a:hover {
 	color: #1A6DBB;
-	transition: 0.3s;
+	transition: color .3s ease-in-out;
 }
 
 .content {
@@ -43,7 +44,7 @@ a:hover {
 }
 
 .intro {
-	margin: 100px 0 90px 0;
+	margin: 80px 0 90px 0;
 	text-align: center;
 }
 
@@ -52,5 +53,3 @@ a:hover {
 	font-size: 22px;
 	line-height: 40px;
 }
-
-
