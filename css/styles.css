@@ -53,3 +53,15 @@ a:hover {
 	font-size: 22px;
 	line-height: 40px;
 }
+
+.intro span.bcgr-red {
+    background-color: #950d0a;
+    color: white;
+    transition: 0.3s;
+}
+
+.intro span.bcgr-red:hover {
+	background-color: red;
+	color: white;
+	transition: 0.3s;
+}
