@@ -54,7 +54,7 @@ a:hover {
 	line-height: 40px;
 }
 
-.intro span.highlight-red {
+.intro span.bcgr-red {
     background-color: red;
     color: white;
     transition: 0.3s;
