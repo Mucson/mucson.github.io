@@ -53,3 +53,9 @@ a:hover {
 	font-size: 22px;
 	line-height: 40px;
 }
+
+.intro span.highlight-red {
+    background-color: red;
+    color: white;
+    transition: 0.3s;
+}
