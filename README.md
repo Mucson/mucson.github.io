@@ -1,2 +1,2 @@
 # mucson.github.io
-Vladimir Zhukov | Gomel, Belarus | Looking for Junior QA Engineer position | personal page
+Vladimir Zhukov | Minsk, Belarus | Junior QA Engineer at SoftClub | personal page
